@@ -22,7 +22,7 @@
   },
   "objects": [
     {
-      "kind": "Secret",
+      "kind": "Secret", 
       "apiVersion": "v1",
       "metadata": {
         "name": "${NAME}"
